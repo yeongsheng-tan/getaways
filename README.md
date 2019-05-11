@@ -1,4 +1,5 @@
 # Getaways
+## Absinthe-Phoenix GraphQL API application
 
 To start your Phoenix server:
 
